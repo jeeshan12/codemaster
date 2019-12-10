@@ -1,0 +1,12 @@
+{
+	"flight": [
+		{
+			"fromStation": "Delhi",
+			"toStation": "Bangalore",
+			"toStationName": "Bangalore, IN - Kempegowda International Airport (BLR)",
+			"adults": "1",
+			"children": "0",
+			"infants": "1"
+		}
+	]
+}
